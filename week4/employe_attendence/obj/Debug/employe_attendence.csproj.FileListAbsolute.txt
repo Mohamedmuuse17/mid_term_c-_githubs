@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\C#TASKS FILE\employe_attendence\employe_attendence\obj\Debug\employe_attendence.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#TASKS FILE\employe_attendence\employe_attendence\obj\Debug\employe_attendence.Form1.resources
+C:\Users\HP\Desktop\C#TASKS FILE\employe_attendence\employe_attendence\obj\Debug\employe_attendence.Properties.Resources.resources
+C:\Users\HP\Desktop\C#TASKS FILE\employe_attendence\employe_attendence\obj\Debug\employe_attendence.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#TASKS FILE\employe_attendence\employe_attendence\obj\Debug\employe_attendence.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#TASKS FILE\employe_attendence\employe_attendence\bin\Debug\employe_attendence.exe.config
+C:\Users\HP\Desktop\C#TASKS FILE\employe_attendence\employe_attendence\bin\Debug\employe_attendence.exe
+C:\Users\HP\Desktop\C#TASKS FILE\employe_attendence\employe_attendence\bin\Debug\employe_attendence.pdb
+C:\Users\HP\Desktop\C#TASKS FILE\employe_attendence\employe_attendence\obj\Debug\employe_attendence.exe
+C:\Users\HP\Desktop\C#TASKS FILE\employe_attendence\employe_attendence\obj\Debug\employe_attendence.pdb
+C:\Users\HP\Desktop\C#TASKS FILE\employe_attendence\employe_attendence\obj\Debug\employe_attendence.exe.config
